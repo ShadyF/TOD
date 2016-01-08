@@ -1,0 +1,38 @@
+body {
+  background: #FFFFFF;
+}
+
+.header {
+   width: 100%; height: 150px;
+   font: 0.9em serif;
+   position: relative;
+ }
+
+a {text-decoration: none;}
+a:visited{color: #222;}
+
+ul {
+    list-style-type: none;
+    margin-right: 2%; padding: 5;
+    text-align: right;
+}
+
+li {
+  margin: 7px;
+  display:inline-block;
+}
+
+.main {
+  position:absolute;
+  left:43%; top: 20%;
+}
+img {
+  width: 272px; height: 92px;
+}
+
+.sCountry {
+  position: relative;
+  color: #4285f4;
+  left:215px;
+  bottom: 17px;
+}
