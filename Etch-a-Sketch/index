@@ -1,8 +1,24 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title></title>
-    <meta content="">
-    <style></style>
+
+    <title>Etch-a-Sketch</title>
+    <link type"text/css" rel="stylesheet" href="css/reset.css"/>
+    <link type"text/css" rel="stylesheet" href="css/stylesheet.css"/>
+
   </head>
-  <body></body>
+  <body>
+
+    <div class="headerbox">
+      <span class="headername">Etch-a-Sketch</span>
+      <!--<input type="radio" name="gender" value="male"> Male<br>-->
+      <button type="button" class="reset">Reset</button>
+      <button type="button" class="newGrid">New Grid</button>
+    </div>
+    <div class="grid"></div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/application.js"></script>
+
+  </body>
 </html>

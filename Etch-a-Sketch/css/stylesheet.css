@@ -1,0 +1,39 @@
+html {
+}
+
+.headerbox {
+  text-align: center;
+  margin: 30px auto;
+  display:block;
+}
+
+.headername {
+  color: #e6005c;
+  font-size: 3em;
+  margin-bottom: 20px;
+  display:block;
+}
+button {
+  margin: 0 2px 0 2px;
+}
+
+.grid {
+  margin: auto;
+  display:block;
+  background-color: yellow;
+  width: 55%;
+  line-height: 0;
+  text-align:left;
+}
+
+.square {
+  display:inline-block;
+  width: 50px;
+  height: 50px;
+  outline: 1px solid #666;
+  background-color: #F0F0F0;
+}
+
+.black {
+  background-color: black;
+}
