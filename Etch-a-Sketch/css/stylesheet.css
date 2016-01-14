@@ -1,17 +1,14 @@
-html {
-}
-
 .headerbox {
+  display:block;
   text-align: center;
   margin: 30px auto;
-  display:block;
 }
 
 .headername {
+  display:block;
   color: #e6005c;
   font-size: 3em;
   margin-bottom: 20px;
-  display:block;
 }
 button {
   margin: 0 2px 0 2px;
